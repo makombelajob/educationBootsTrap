@@ -8,7 +8,7 @@ This project is a modern and responsive **educational website** built with **Boo
 - ✅ **CSS3**
 
 ## 📷 Live Preview
-![Website Preview](media/screenshot.png)
+![Website Preview](media/Screenshot.png)
 
 ## 🎯 Features
 - 📱 **Fully Responsive** – Optimized for mobile and desktop.
